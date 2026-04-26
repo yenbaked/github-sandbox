@@ -44,6 +44,7 @@ Downloads each file and saves it by its original filename.
 
 ```
 download: https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.6.4/mhrv-rs-android-arm64-v8a-v1.6.4.apk
+
 ```
 
 **Examples:**
